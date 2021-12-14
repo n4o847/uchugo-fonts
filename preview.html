@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Preview</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./dist/style.css">
+    <style>
+      body {
+        margin: 0;
+        padding: 2rem;
+      }
+      .preview {
+        margin: auto;
+        width: 42rem;
+        border-bottom: solid 0.5rem var(--background-color);
+        background-color: #fcfefc;
+      }
+      .preview-header {
+        position: relative;
+        padding: 1rem 2rem;
+        font-size: 2rem;
+        line-height: 1.5;
+        background-color: var(--background-color);
+        color: var(--foreground-color);
+        font-family: 'Nunito', sans-serif;
+      }
+      .preview-version {
+        position: absolute;
+        right: 2rem;
+        bottom: 1rem;
+        font-size: 1rem;
+      }
+      .preview-body {
+        padding: 1rem;
+        text-align: center;
+        font-family: var(--font-family);
+        font-size: 3rem;
+        line-height: 1.5;
+        color: #241a14;
+      }
+      .steleto {
+        --background-color: #4675AB;
+        --foreground-color: #ffffff;
+        --font-family: 'UF Steleto';
+      }
+    </style>
+  </head>
+  <body>
+    <div class="preview steleto">
+      <div class="preview-header">
+        UF Steleto
+        <span class="preview-version">Version 1.000</span>
+      </div>
+      <div class="preview-body" contenteditable>
+        <div>A B C D E F G H I J K</div>
+        <div>L M N O P R S T U V Z</div>
+        <div>Ĉ Ĝ Ĥ Ĵ Ŝ Ŭ</div>
+        <div style="font-size: 1.5rem; color: #817c78;">
+          SAME KIEL VI ESTAS ĈI TIE, MI ESTAS ĈI TIE. <br />
+          MI ĈIAM ESTAS APUD VI. DO ANKAŬ VI, <br />
+          BONVOLU NE FORGESU, KE MI ESTAS ĈI TIE.
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

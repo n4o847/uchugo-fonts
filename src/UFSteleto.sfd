@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1638943778
-ModificationTime: 1639472797
+ModificationTime: 1639530767
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -37,11 +37,11 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
+Lookup: 4 0 1 "'liga' +ahluljBuVAhbVwAA in +MOkwxjDzZYdbVwAA lookup 0" { "'liga' +ahluljBuVAhbVwAA in +MOkwxjDzZYdbVwAA lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2021 ura+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
@@ -50,7 +50,7 @@ FitToEm: 0
 WinInfo: 0 16 6
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65536 29
+BeginChars: 65536 30
 
 StartChar: A
 Encoding: 65 65 0
@@ -12551,6 +12551,8 @@ SplineSet
  231.148583876 829.343843675 184.875347834 779.883519179 117.261395989 726.442704339 c 0
  111.128143428 721.595095147 103.381895856 718.700195312 94.96484375 718.700195312 c 0
 EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' +ahluljBuVAhbVwAA in +MOkwxjDzZYdbVwAA lookup 0-1" C asciicircum
 EndChar
 
 StartChar: Gcircumflex
@@ -12662,6 +12664,8 @@ SplineSet
  311.630859375 327 295.5 343.130859375 295.5 363 c 2
  295.5 378 l 2
 EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' +ahluljBuVAhbVwAA in +MOkwxjDzZYdbVwAA lookup 0-1" G asciicircum
 EndChar
 
 StartChar: Hcircumflex
@@ -12761,6 +12765,8 @@ SplineSet
  399 331.130859375 382.869140625 315 363 315 c 0
  343.130859375 315 327 331.130859375 327 351 c 0
 EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' +ahluljBuVAhbVwAA in +MOkwxjDzZYdbVwAA lookup 0-1" H asciicircum
 EndChar
 
 StartChar: Jcircumflex
@@ -12842,6 +12848,8 @@ SplineSet
  107.020507812 529.45703125 97.80078125 541.629882812 90.056640625 555.99609375 c 0
  83.958984375 567.307617188 77.5 580.845703125 77.5 599 c 0
 EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' +ahluljBuVAhbVwAA in +MOkwxjDzZYdbVwAA lookup 0-1" J asciicircum
 EndChar
 
 StartChar: Scircumflex
@@ -12917,6 +12925,8 @@ SplineSet
  384 284.606445312 382.8984375 299.19140625 381.594726562 314.004882812 c 0
  379.938476562 332.809570312 378 353.17578125 378 368 c 0
 EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' +ahluljBuVAhbVwAA in +MOkwxjDzZYdbVwAA lookup 0-1" S asciicircum
 EndChar
 
 StartChar: Ubreve
@@ -13007,6 +13017,38 @@ SplineSet
  282.559570312 662.905273438 276.477539062 670.59765625 275.72265625 671.403320312 c 0
  231.830078125 718.271484375 188.509765625 772.579101562 145.654296875 822.595703125 c 0
  140.259765625 828.891601562 137 837.068359375 137 846 c 0
+EndSplineSet
+LCarets2: 1 0
+Ligature2: "'liga' +ahluljBuVAhbVwAA in +MOkwxjDzZYdbVwAA lookup 0-1" U asciicircum
+EndChar
+
+StartChar: asciicircum
+Encoding: 94 94 29
+Width: 578
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+103.618164062 470.700195312 m 0
+ 83.7490234375 470.700195312 67.6181640625 486.831054688 67.6181640625 506.700195312 c 0
+ 67.6181640625 518.15234375 72.9765625 528.362304688 81.3212890625 534.958007812 c 0
+ 155.510742188 593.595703125 208.12109375 652.900390625 274.373046875 716.891601562 c 0
+ 280.850585938 723.1484375 289.666992188 727 299.375 727 c 0
+ 311.5 727 322.233398438 720.9921875 328.7578125 711.793945312 c 0
+ 352.321289062 678.57421875 377.204101562 648.190429688 405.971679688 623.172851562 c 0
+ 417.893554688 612.805664062 439.48828125 591.565429688 450.024414062 575.7578125 c 1
+ 465.504882812 562.725585938 480.515625 549.224609375 496.668945312 536.864257812 c 0
+ 505.01953125 530.26953125 510.381835938 520.055664062 510.381835938 508.599609375 c 0
+ 510.381835938 488.73046875 494.250976562 472.599609375 474.381835938 472.599609375 c 0
+ 465.96875 472.599609375 458.2265625 475.491210938 452.094726562 480.334960938 c 0
+ 446.939453125 484.40625 441.608398438 488.3359375 436.61328125 492.594726562 c 2
+ 398.724609375 524.89453125 l 2
+ 395.168945312 527.92578125 392.209960938 531.635742188 390.047851562 535.823242188 c 0
+ 389.475585938 536.578125 385.041992188 542.376953125 379.962890625 547.877929688 c 0
+ 372.255859375 556.224609375 362.373046875 565.6875 358.762695312 568.827148438 c 0
+ 334.848632812 589.624023438 314.04296875 612.599609375 295.184570312 636.451171875 c 1
+ 239.801757812 581.34375 193.528320312 531.883789062 125.915039062 478.442382812 c 0
+ 119.78125 473.594726562 112.03515625 470.700195312 103.618164062 470.700195312 c 0
 EndSplineSet
 EndChar
 EndChars

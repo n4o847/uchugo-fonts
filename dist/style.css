@@ -4,6 +4,11 @@
 }
 
 @font-face {
+  font-family: 'UF Lumo';
+  src: url('./UFLumo.woff') format('woff');
+}
+
+@font-face {
   font-family: 'UF Trezoro';
   src: url('./UFTrezoro.woff') format('woff');
 }

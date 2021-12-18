@@ -13,7 +13,7 @@
         padding: 2rem;
       }
       .preview {
-        margin: auto;
+        margin: 2rem auto;
         width: 42rem;
         border-bottom: solid 0.5rem var(--background-color);
         background-color: #fcfefc;
@@ -41,10 +41,19 @@
         line-height: 1.5;
         color: #241a14;
       }
+      .text-muted {
+        font-size: 1.5rem;
+        color: #817c78;
+      }
       .steleto {
-        --background-color: #4675AB;
+        --background-color: #4675ab;
         --foreground-color: #ffffff;
         --font-family: 'UF Steleto';
+      }
+      .trezoro {
+        --background-color: #d8c9a7;
+        --foreground-color: #ffffff;
+        --font-family: 'UF Trezoro';
       }
     </style>
   </head>
@@ -58,11 +67,23 @@
         <div>A B C D E F G H I J K</div>
         <div>L M N O P R S T U V Z</div>
         <div>Ĉ Ĝ Ĥ Ĵ Ŝ Ŭ</div>
-        <div style="font-size: 1.5rem; color: #817c78;">
-          SAME KIEL VI ESTAS ĈI TIE, MI ESTAS ĈI TIE. <br />
-          MI ĈIAM ESTAS APUD VI. DO ANKAŬ VI, <br />
-          BONVOLU NE FORGESU, KE MI ESTAS ĈI TIE.
-        </div>
+        <div class="text-muted">SAME KIEL VI ESTAS ĈI TIE, MI ESTAS ĈI TIE.</div>
+        <div class="text-muted">MI ĈIAM ESTAS APUD VI. DO ANKAŬ VI,</div>
+        <div class="text-muted">BONVOLU NE FORGESU, KE MI ESTAS ĈI TIE.</div>
+      </div>
+    </div>
+    <div class="preview trezoro">
+      <div class="preview-header">
+        UF Trezoro
+        <span class="preview-version">Version 1.000</span>
+      </div>
+      <div class="preview-body" contenteditable>
+        <div>A B C D E F G H I J K</div>
+        <div>L M N O P R S T U V Z</div>
+        <div>Ĉ Ĝ Ĥ Ĵ Ŝ Ŭ</div>
+        <div class="text-muted">SAME KIEL VI ESTAS ĈI TIE, MI ESTAS ĈI TIE.</div>
+        <div class="text-muted">MI ĈIAM ESTAS APUD VI. DO ANKAŬ VI,</div>
+        <div class="text-muted">BONVOLU NE FORGESU, KE MI ESTAS ĈI TIE.</div>
       </div>
     </div>
   </body>

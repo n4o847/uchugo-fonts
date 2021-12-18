@@ -2,3 +2,8 @@
   font-family: 'UF Steleto';
   src: url('./UFSteleto.woff') format('woff');
 }
+
+@font-face {
+  font-family: 'UF Trezoro';
+  src: url('./UFTrezoro.woff') format('woff');
+}

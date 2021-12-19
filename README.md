@@ -16,6 +16,11 @@
 
 ![](./assets/preview-uf-trezoro.png)
 
+
+### UF Fulmo
+
+![](./assets/preview-uf-fulmo.png)
+
 ## ライセンス
 
 これらのフォントは [SIL Open Font License 1.1](https://licenses.opensource.jp/OFL-1.1/OFL-1.1.html) のもとで公開されています。

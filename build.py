@@ -3,7 +3,7 @@
 import fontforge
 
 def build():
-    for name in ['UFSteleto', 'UFLumo', 'UFTrezoro']:
+    for name in ['UFSteleto', 'UFLumo', 'UFTrezoro', 'UFFulmo']:
         font = fontforge.open(f'src/{name}.sfd')
         print(f'Building {font.fontname} {font.version}')
         font.generate(f'dist/{name}.ttf')

@@ -12,3 +12,8 @@
   font-family: 'UF Trezoro';
   src: url('./UFTrezoro.woff') format('woff');
 }
+
+@font-face {
+  font-family: 'UF Fulmo';
+  src: url('./UFFulmo.woff') format('woff');
+}

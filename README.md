@@ -8,18 +8,25 @@
 
 ![](./assets/preview-uf-steleto.png)
 
+原作を再現した手書き風のフォントです。
+
 ### UF Lumo
 
 ![](./assets/preview-uf-lumo.png)
+
+明るくて丸っこいポップ体のフォントです。
 
 ### UF Trezoro
 
 ![](./assets/preview-uf-trezoro.png)
 
+優雅で上品なセリフ体のフォントです。
 
 ### UF Fulmo
 
 ![](./assets/preview-uf-fulmo.png)
+
+六角形を基調としたメカニックなフォントです。
 
 ## ライセンス
 
